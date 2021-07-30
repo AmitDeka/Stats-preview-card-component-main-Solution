@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://amitdeka.github.io/Stats-preview-card-component-main-Solution/)
+- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/solutions/solution-for-stats-preview-card-component-LusPVjHT4)
+- Live Site URL: [GitHUb Pagese](https://amitdeka.github.io/Stats-preview-card-component-main-Solution/)
 
 ## My process
 
