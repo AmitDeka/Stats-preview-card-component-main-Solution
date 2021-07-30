@@ -36,11 +36,11 @@
             </div>
 
             <div class="card_image">
-                <img src="./images/image-header-mobile.jpg" 
-                srcset="./images/image-header-mobile.jpg 1x,
-                ./images/image-header-mobile.jpg 2x,
-                ./images/image-header-desktop.jpg 3x"
-                alt="Card Header Image">
+                <picture>
+                    <source srcset="./images/image-header-mobile.jpg" media="(max-width: 959px)">
+                    <source srcset="./images/image-header-desktop.jpg" media="(min-width: 960px)">
+                    <img src="./images/image-header-mobile.jpg" alt="Card Image">
+                </picture>
             </div>
         </div>
 

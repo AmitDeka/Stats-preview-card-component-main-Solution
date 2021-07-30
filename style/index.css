@@ -131,7 +131,7 @@ body{
 
 /* Responsive media query */
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 960px) {
     .wrapper{
         height: 60%;
         width: 70%;
